@@ -1,1 +1,1 @@
-flask>=3.0.0
+# No external dependencies — app.py uses Python 3 stdlib only.
